@@ -1,7 +1,1 @@
-[![Header](https://github.com/boccique/boccique/blob/main/assets/giphy.gif)]
-
-About me
-
-Languages and tools 
-
-Contacts
+<img src="https://github.com/boccique/boccique/blob/main/assets/giphy%20(1).gif" width="1300" height="250"/>

@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/boccique/boccique/blob/main/assets/giphy.gif)]
 
 About me
 
